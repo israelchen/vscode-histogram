@@ -20,10 +20,18 @@
     ],
     "main": "./out/src/extension",
     "contributes": {
-        "commands": [{
+        "commands": [
+            {
             "command": "extension.createHistogram",
             "title": "histogram: Create histogram"
-        }]
+            }
+        ],
+		"keybindings": [
+			{
+				"command": "extension.createHistogram",
+				"key": "alt+f10"
+			}
+        ]
     },
     "scripts": {
         "vscode:prepublish": "tsc -p ./",
