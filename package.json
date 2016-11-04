@@ -29,7 +29,8 @@
 		"keybindings": [
 			{
 				"command": "extension.createHistogram",
-				"key": "alt+f10"
+				"key": "alt+f10",
+				"when": "editorTextFocus"
 			}
         ]
     },
