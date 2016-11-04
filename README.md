@@ -1,6 +1,7 @@
-# histogram README
+# histogram
 
-Create frequency histograms. Useful for log analysis (e.g. count number of identical errors)
+Miss your sublime histogram plugin? Easily create frequency histograms using this extension.
+Useful for log analysis (e.g. group and count number of errors) and statistics.
 
 ![image](images/create-histogram.gif)
 
