@@ -1,7 +1,7 @@
 {
     "name": "histogram",
     "displayName": "histogram",
-    "description": "Easily create histograms!",
+    "description": "Histogram creator",
     "version": "0.0.1",
     "publisher": "israelchen",
     "engines": {

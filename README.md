@@ -2,7 +2,7 @@
 
 Create frequency histograms. Useful for log analysis (e.g. count number of identical errors)
 
-![create histogram](images/create-histogram.gif)
+![image](images/create-histogram.gif)
 
 ## Release Notes
 
