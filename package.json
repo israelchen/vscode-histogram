@@ -3,7 +3,12 @@
     "displayName": "histogram",
     "description": "Histogram creator",
     "version": "0.0.1",
+    "author": "israelchen",
     "publisher": "israelchen",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/israelchen/vscode-histogram"
+    },
     "engines": {
         "vscode": "^1.5.0"
     },
