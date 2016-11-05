@@ -2,7 +2,7 @@
     "name": "histogram",
     "displayName": "histogram",
     "description": "Histogram creator",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "israelchen",
     "publisher": "israelchen",
     "repository": {
